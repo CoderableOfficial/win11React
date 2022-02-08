@@ -11,7 +11,7 @@ export const WnTerminal = ()=>{
     "OS [Version 10.0.22000.51]",
     ""
   ]);
-  const [pwd, setPwd] = useState("C:\\Users\\Blue");
+  const [pwd, setPwd] = useState("C:\\Users\\Coderable");
   const [lastCmd, setLsc] = useState(0);
   const [wntitle, setWntitle] = useState("Terminal");
 
@@ -158,16 +158,16 @@ export const WnTerminal = ()=>{
     }else if (type=="title") {
       setWntitle(arg.length?arg:"Terminal");
     }else if (type=="hostname") {
-      tmpStack.push("blue");
-    }else if (type=="blue") {
-      tmpStack.push("blueedgetechno");
+      tmpStack.push("Coderable");
+    }else if (type=="Coderable") {
+      tmpStack.push("Coderable");
     }else if (type=="dev") {
-      tmpStack.push("https://dev.blueedge.me/");
+      tmpStack.push("https://win11.coderable.studio/");
     }else if (type=="ver") {
       tmpStack.push("OS [Version 10.0.22000.51]");
     }else if (type=="systeminfo") {
       var dvInfo = [
-        "Host Name:                 BLUE",
+        "Host Name:                 Coderable",
         "OS Name:                   ",
         "OS Version:                10.0.22000 N/A Build 22000.51",
         "OS Manufacturer:           ",
