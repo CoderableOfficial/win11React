@@ -223,18 +223,6 @@
       },
       "Windows": {}
     }
-  },
-  "D:":{
-    "name": "D:",
-    "info":{
-      "spid": "%ddrive%"
-    },
-    "data": {
-      "Adobe": {},
-      "Programs": {},
-      "Unity": {},
-      "WindowsApp": {},
-      "Temp": {}
-    }
+  }
   }
 }
