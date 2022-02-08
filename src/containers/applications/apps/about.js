@@ -30,15 +30,15 @@ export const AboutWin = () => {
         <p>win11React is an open source project made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS, and JavaScript.</p>
         <p>
           This project is licensed under&nbsp;
-          <a target="_blank" href="https://github.com/blueedgetechno/win11React/blob/master/LICENSE">
+          <a target="_blank" href="https://github.com/CoderableOfficial/win11React/blob/master/LICENSE">
             Creative Commons
           </a>
           .
         </p>
         <p className="pl-4">
           contact :&nbsp;
-          <a target="_blank" href="mailto:blueedgetechno@gmail.com">
-            blueedgetechno@gmail.com
+          <a target="_blank" href="mailto:contact@coderable.studio">
+          contact@coderable.studio
           </a>
         </p>
 
