@@ -17,7 +17,7 @@ export const EdgeMenu = ()=>{
     "https://www.youtube.com/embed/m0EHSoZzHEA": "Youtube",
     "https://coderable.studio": "Coderable",
     "https://rubiks.coderable.studio": "Rubiks",
-    "https://win11.coderable.studio": "Win11 In React"
+    "https://win11.coderable.studio": "Win11 In React",
     "https://othello.coderable.studio": "Othello",
   }
 
