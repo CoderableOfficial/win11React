@@ -266,11 +266,11 @@ var apps = [{
   payload: 'https://github.com/The-Coderable'
 },
 {
-  name: 'Unescape',
-  icon: 'unescape',
+  name: 'Rubiks',
+  icon: 'https://th.bing.com/th/id/OIP.zmx0UHrrYQp25F1I5mu2UAHaHt?w=157&h=180&c=7&r=0&o=5&pid=1.7',
   type: 'action',
   action: 'EXTERNAL',
-  payload: 'https://blueedge.me/unescape'
+  payload: 'https://rubiks.coderable.studio'
 },
 {
   name: 'Discord',
