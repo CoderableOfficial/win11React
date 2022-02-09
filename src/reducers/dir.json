@@ -154,7 +154,7 @@
                   "2007": {},
                   "High School": {
                     "data": {
-                      "Did you really expected that": {}
+                      "Did you really expect that": {}
                     }
                   }
                 }
@@ -171,16 +171,16 @@
                 },
                 "data": {
                   "atomforces": {},
-                  "blueapi": {},
-                  "BlueBlog": {},
-                  "BlueBlogs---A-social-platform": {},
-                  "blueedgetechno": {},
-                  "blueedgetechno.github.io": {},
-                  "blueimage": {},
-                  "bluelab": {},
-                  "blueothello": {},
-                  "blueweb": {},
-                  "codeblue": {},
+                  "codeapi": {},
+                  "CodeBlog": {},
+                  "Rubiks": {},
+                  "Win11": {},
+                  "The-Coderable": {},
+                  "codeimage": {},
+                  "codelab": {},
+                  "Codeothello": {},
+                  "Codeweb": {},
+                  "code": {},
                   "handwritten-digit-recognition": {},
                   "jiosaavn": {},
                   "jiosaavn-api": {},
@@ -222,6 +222,19 @@
         }
       },
       "Windows": {}
+    }
+     },
+  "D:":{
+    "name": "D:",
+    "info":{
+      "spid": "%ddrive%"
+    },
+    "data": {
+      "Adobe": {},
+      "Programs": {},
+      "Unity": {},
+      "WindowsApp": {},
+      "Temp": {}
     }
   }
   }
