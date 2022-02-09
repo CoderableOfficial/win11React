@@ -328,8 +328,8 @@ const FrontPage = (props)=>{
       <div className="w-full overflow-x-scroll noscroll overflow-y-hidden -mt-16">
         <div className="storeRibbon">
           {ribbon && ribbon.map(x=>{
-            return x=="unescape"?(
-              <a href="https://blueedge.me/unescape" target="_blank">
+            return x=="Rubiks"?(
+              <a href="https://rubiks.coderable.studio" target="_blank">
               <Image className="mx-1 dpShad rounded"
                 var={x} h={100} dir="store/float" src={x}/>
               </a>
