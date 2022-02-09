@@ -129,7 +129,7 @@
                   "Hitman 3": {},
                   "Atomforces": {},
                   "Compressed": {},
-                  "textures": {},
+                  "Textures": {},
                   "Not A Virus": {}
                 }
               },
@@ -154,7 +154,7 @@
                   "2007": {},
                   "High School": {
                     "data": {
-                      "Did you really expected that": {}
+                      "Did you really expect that": {}
                     }
                   }
                 }
@@ -171,7 +171,7 @@
                 },
                 "data": {
                   "atomforces": {},
-                  "blueapi": {},
+                  "CodeAPI": {},
                   "BlueBlog": {},
                   "BlueBlogs---A-social-platform": {},
                   "blueedgetechno": {},
