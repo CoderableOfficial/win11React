@@ -54,7 +54,7 @@ export const AboutWin = () => {
       </div>
       <div className="okbtn px-6 py-4">
         <div data-allow={timer == 0} onClick={timer == 0 && action}>
-          Ok, I understand {timer > 0 ? <span>{`( ${timer} )`}</span> : null}
+          Ok{timer > 0 ? <span>{`( ${timer} )`}</span> : null}
         </div>
       </div>
     </div>
