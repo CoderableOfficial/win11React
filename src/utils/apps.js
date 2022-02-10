@@ -267,7 +267,7 @@ var apps = [{
 },
 {
   name: 'Rubiks',
-  icon: 'https://th.bing.com/th/id/OIP.zmx0UHrrYQp25F1I5mu2UAHaHt?w=157&h=180&c=7&r=0&o=5&pid=1.7',
+  icon: 'https://th.bing.com/th/id/R.1ca1fa90f9270aeeec64cfc22a9dc57f?rik=d9brDQt5LC0njg&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2fb%2f7%2f3%2f5%2f1206564461883355622Rfc1394_Rubik_s_Cube.svg.hi.png&ehk=IrqqZfM%2fNsfPMraRap6IYVi%2fJhiASZG9C2nLiA8mq6o%3d&risl=&pid=ImgRaw&r=0',
   type: 'action',
   action: 'EXTERNAL',
   payload: 'https://rubiks.coderable.studio'
