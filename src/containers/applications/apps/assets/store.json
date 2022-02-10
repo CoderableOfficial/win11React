@@ -64,18 +64,18 @@
     }
   },
   {
-    "name": "Soltaire",
-    "icon": "https://images.all-free-download.com/images/graphiclarge/spider_solitaire_37215.jpg",
+    "name": "Rubiks",
+    "icon": "https://th.bing.com/th/id/R.1ca1fa90f9270aeeec64cfc22a9dc57f?rik=d9brDQt5LC0njg&riu=http%3a%2f%2fwww.clker.com%2fcliparts%2fb%2f7%2f3%2f5%2f1206564461883355622Rfc1394_Rubik_s_Cube.svg.hi.png&ehk=IrqqZfM%2fNsfPMraRap6IYVi%2fJhiASZG9C2nLiA8mq6o%3d&risl=&pid=ImgRaw&r=0",
     "type": "game",
     "data": {
       "type": "IFrame",
-      "url": "https://www.squidbyte.com/games/spidersolitairewindowsxp",
+      "url": "https://rubiks.coderable.studio",
       "gallery": [
         "https://www.freecell.io/uploads/games/icons/freecellio/spider-solitaire-windows-xp.jpg",
         "https://i.pinimg.com/originals/da/fb/51/dafb514c4185b9349a1ec3de54e2ae33.png",
         "https://upload.wikimedia.org/wikipedia/en/7/77/Spider_Solitaire_7.png"
       ],
-      "desc": "Spider Solitaire is a solitaire card game. As of 2005, it was the most played game on Windows PCs, surpassing the shorter and less challenging Klondike-based Windows Solitaire.",
+      "desc": "Can You Solve The Classic Puzzle Game?",
       "feat": "Play and win"
     }
   },
